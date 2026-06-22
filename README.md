@@ -1,22 +1,16 @@
 # shrine
 
-Shrine
-
-## Overview
-
-| Attribute | Details |
-|-----------|---------|
-| **Language** | Various |
-| **Size** | ~0.3 MB |
-| **Last Updated** | 2023-08-18T04:37:52Z |
+A new Flutter project.
 
 ## Getting Started
 
-```bash
-git clone https://github.com/FernandoMay/shrine.git
-cd shrine
-```
+This project is a starting point for a Flutter application.
 
-## License
+A few resources to get you started if this is your first Flutter project:
 
-MIT
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
